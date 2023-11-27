@@ -1,6 +1,6 @@
 ## Time Calculation Script
 
-This Bash script takes two time inputs in the format `hh:mm`, calculates the total time, and outputs the result.
+This Bash script takes two-time inputs in the format `hh:mm`, calculates the total time, and outputs the result.
 
 ### Usage
 
