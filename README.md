@@ -11,7 +11,7 @@ This Bash script takes two-time inputs in the format `hh:mm`, calculates the tot
    ```
 
    ```
-   cd your-repository
+   cd repository
    ```
 
    ```
